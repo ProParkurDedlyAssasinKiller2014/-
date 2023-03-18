@@ -1,0 +1,12 @@
+﻿body{
+    max-width: 1062px;
+    width: 100%;
+    margin: auto;
+    background: url('les.jpg') no-repeat center;
+    background-size: 100%;
+    color: #fff;
+}
+a{
+    color: #fff;
+    padding: 50px;
+}

@@ -1,0 +1,17 @@
+body{
+    max-width: 1062px;
+    width: 100%;
+    margin: auto;
+
+    background-size: 100%;
+    color: #fff;
+animation: change-background 4s infinite;
+}
+@keyframes change-background{
+0%{background: #CD5C5C;}
+50%{background: #FF4500;}
+100%{background: #800000;}
+a{
+    color: #800080;
+    padding: 50px;
+}
